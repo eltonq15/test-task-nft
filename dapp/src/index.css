@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
